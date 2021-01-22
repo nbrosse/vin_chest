@@ -9,6 +9,7 @@ python = "^3.8"
 streamlit = "^0.75.0"
 pandas = "^1.2.1"
 numpy = "^1.19.5"
+matplotlib = "^3.3.3"
 
 [tool.poetry.dev-dependencies]
 
